@@ -1,13 +1,32 @@
 {
   "files": {
-    "main.css": "/placepicker/static/css/main.7acaea2f.css",
-    "main.js": "/placepicker/static/js/main.07d3183d.js",
+    "main.css": "/placepicker/static/css/main.ba86dce7.css",
+    "main.js": "/placepicker/static/js/main.4aa6e100.js",
+    "static/media/rainforest.jpg": "/placepicker/static/media/rainforest.1459e6a42f7a6a3e86e4.jpg",
+    "static/media/amazon-river.jpg": "/placepicker/static/media/amazon-river.86307e75fa33fe0a773c.jpg",
+    "static/media/parisian-streets.jpg": "/placepicker/static/media/parisian-streets.f86604e67d5e5b05b612.jpg",
+    "static/media/ruins.jpg": "/placepicker/static/media/ruins.d8227a33b0e2bf8797f2.jpg",
+    "static/media/venetian-canals.jpg": "/placepicker/static/media/venetian-canals.6e23bdd6216b9ac5323c.jpg",
+    "static/media/caribbean-beach.jpg": "/placepicker/static/media/caribbean-beach.8b79fdd71fa53667ce4d.jpg",
+    "static/media/great-barrier-reef.jpg": "/placepicker/static/media/great-barrier-reef.f89e37aa06bc652495c5.jpg",
+    "static/media/forest-waterfall.jpg": "/placepicker/static/media/forest-waterfall.a6980b141a8c951727ab.jpg",
+    "static/media/kerala-backwaters.jpg": "/placepicker/static/media/kerala-backwaters.748b7009c573bff71108.jpg",
+    "static/media/majestic-mountains.jpg": "/placepicker/static/media/majestic-mountains.117a8a6310100a3ada5e.jpg",
+    "static/media/victoria-falls.jpg": "/placepicker/static/media/victoria-falls.0d9ca7db6899d3799b7a.jpg",
+    "static/media/machu-picchu.jpg": "/placepicker/static/media/machu-picchu.60c9888a1770a0850eac.jpg",
+    "static/media/taj-mahal.jpg": "/placepicker/static/media/taj-mahal.05c3fbea90b2dcf0510b.jpg",
+    "static/media/african-savanna.jpg": "/placepicker/static/media/african-savanna.e32e663e97b627db0711.jpg",
+    "static/media/grand-canyon.jpg": "/placepicker/static/media/grand-canyon.7865d053566b224f8bd1.jpg",
+    "static/media/northern-lights.jpg": "/placepicker/static/media/northern-lights.1b849a595aca6000ca68.jpg",
+    "static/media/japanese-temple.jpg": "/placepicker/static/media/japanese-temple.1a0588dceaf25a77a947.jpg",
+    "static/media/desert-dunes.jpg": "/placepicker/static/media/desert-dunes.d9fb26d7117f8071c4de.jpg",
+    "static/media/logo.png": "/placepicker/static/media/logo.ce5c7afc5810ff065739.png",
     "index.html": "/placepicker/index.html",
-    "main.7acaea2f.css.map": "/placepicker/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/placepicker/static/js/main.07d3183d.js.map"
+    "main.ba86dce7.css.map": "/placepicker/static/css/main.ba86dce7.css.map",
+    "main.4aa6e100.js.map": "/placepicker/static/js/main.4aa6e100.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.ba86dce7.css",
+    "static/js/main.4aa6e100.js"
   ]
 }
