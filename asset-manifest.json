@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/placepicker/static/css/main.5267bd3a.css",
+    "main.css": "/placepicker/static/css/main.b79b0a02.css",
     "main.js": "/placepicker/static/js/main.8d22bacd.js",
     "static/media/rainforest.jpg": "/placepicker/static/media/rainforest.1459e6a42f7a6a3e86e4.jpg",
     "static/media/amazon-river.jpg": "/placepicker/static/media/amazon-river.86307e75fa33fe0a773c.jpg",
@@ -22,11 +22,11 @@
     "static/media/desert-dunes.jpg": "/placepicker/static/media/desert-dunes.d9fb26d7117f8071c4de.jpg",
     "static/media/logo.png": "/placepicker/static/media/logo.ce5c7afc5810ff065739.png",
     "index.html": "/placepicker/index.html",
-    "main.5267bd3a.css.map": "/placepicker/static/css/main.5267bd3a.css.map",
+    "main.b79b0a02.css.map": "/placepicker/static/css/main.b79b0a02.css.map",
     "main.8d22bacd.js.map": "/placepicker/static/js/main.8d22bacd.js.map"
   },
   "entrypoints": [
-    "static/css/main.5267bd3a.css",
+    "static/css/main.b79b0a02.css",
     "static/js/main.8d22bacd.js"
   ]
 }
