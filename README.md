@@ -3,7 +3,7 @@
 Placepicker description
 
 <div align="center">
-    <img src="https://github.com/IvanVasiunin/placepicker/blob/main/assets/app_UI.png" alt="UI_snapshot" />
+    <img src="https://github.com/IvanVasiunin/placepicker/blob/main/public/app_UI.jpg" alt="UI_snapshot" />
 </div>
 
 ## Demo
