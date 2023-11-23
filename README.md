@@ -25,4 +25,4 @@ In order to run the project:
 - HTML5
 - TailwindCSS
 - Javascript
-- React.js
+- React.js (useState, useRef, useEffect, useCallback, createPortal)
